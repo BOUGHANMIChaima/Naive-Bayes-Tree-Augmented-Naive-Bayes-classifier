@@ -11,7 +11,7 @@ manipulation des distributions de probabilités complexes (Pearl, 1988)
 Permettre une séparation entre les aspects qualitatifs et
 structurels et les aspects quantitatifs et paramétriques dans la
 modélisation de l’incertitude.  
-**1 Repréesentés via les patterns des arêtes dans le graphe 
+**1 Repréesentés via les patterns des arêtes dans le graphe   
   2 Repréesentés sous forme de valeurs numériques associées à  
 des sous-ensembles de nœuds dans le graphe.**  
 
@@ -28,7 +28,7 @@ classification, détection de fraude.
 ### Naives Bayes Classifier
 Caractéeristique : très forte hypothèse d’indépendance.
 **¤ Bayésien: utilise le théorème de Bayes pour calculer la
-probabilité conditionnelle    
+probabilité conditionnelle      
 ¤ Naive: il assume une indépendance entre les features
 conditionnellement au label ce qui n’est pas forcement
 établi.**
